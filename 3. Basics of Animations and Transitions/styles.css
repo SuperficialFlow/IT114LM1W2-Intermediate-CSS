@@ -20,12 +20,15 @@
 @keyframes bob {
     0%{
         scale: 100%;
+        background-color: purple;
     }
     50%{
         scale: 120%;
+        background-color: pink;
     }
     100%{
         scale: 100%;
+        background-color: purple;
     }
     
 }
