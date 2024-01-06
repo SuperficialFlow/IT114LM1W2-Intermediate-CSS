@@ -34,7 +34,7 @@ when the screen's width is smaller than 500px */
   display: flex;
   flex-direction: row-rever;
 
-  @media screen and (min-width: 500px) {
+  @media screen and (max-width: 500px) {
     flex-direction: column;
   }
 }
