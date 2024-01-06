@@ -47,9 +47,9 @@ Set more key frames between 0% and 100%. */
   25% {
     transform: translateX(50px);
   }
-  50% {
+  /*50% {
     transform: translateX(100px);
-  }
+  }*/
   75% {
     transform: translateX(150px);
   }
